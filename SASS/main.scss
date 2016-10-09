@@ -1,30 +1,22 @@
 // PRIMARY SASS FILE
 
-
-// Modules and Variables
-/* reserved for Sass code that doesn't cause Sass to actually output CSS. Things like mixin declarations, functions, and variables. */
-
-// Partials
-/* where the meat of my CSS is constructed. */
-// @import "partials/typography";
-
 @import "partials/reset";
+
 
 // Third-party
 // @import "vendor/jquery.ui.core";
+@import "../app/bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 
 
+// Modules and Variables
+/* reserved for Sass code that doesn't cause Sass to actually output CSS. Things like mixin declarations, functions, and variables. */
+// (Note: the bass.scss imports all the scss files fron the `modules` folder)
+@import "partials/base";
+
+// Partials
+/* where the meat of my CSS is constructed. */
 
 
+@import "partials/typography";
 
 
-//
-
-.test-header {
-  color: lime;
-  size: 18px;
-}
-
-.other {
-  color: red;
-}

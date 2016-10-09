@@ -1,0 +1,100 @@
+// == COLORS FOR THE NEW DESIGN ( DEC 2015) ========
+
+
+$white: #FFFFFF;
+
+
+
+// == GREYS ========
+$grey-normal: #BFBFBF;
+$grey-light: #D9D9D9;
+$grey-warm: #A1A0A0;
+$grey-dark: #4A4A4A;
+
+$grey-faint: lighten($grey-light, 10);
+
+
+
+// == PRIMARY COLOR ========
+$rouge: #B8222F;
+$rouge-light: lighten($rouge, 10%);
+$rouge-dark: darken($rouge, 10%);
+
+
+// == SECONDARY COLOR ========
+$azure: #00ADEF;
+$blue-button: #3498db;
+
+// active
+$picton-blue: #59C3EC;
+
+// === BLUES ===
+$blue-dark: #2E7DD9;
+$havelock-blue: #4A90E2;
+$mariner: #2E7DD9;
+
+$mariner--dark: darken($mariner, 10);
+$blue-medium: #00ADEF;
+
+
+//  == OTHER COLORs ========
+
+$cardinal: #B8222F;
+$pomegranate: #EE3123;
+$cinnabar: #E74C3C;
+$carrot-orange: #F18E2C;
+$tulip-tree: #E9A050;
+$goldenrod: #FAD35F;
+$salem: #0F9D58;
+$fern: #72B463;
+$conifer: #99D762;
+
+
+// == 50 SHADES OF GREY ==
+$mine-shaft: #333333;
+$tundora: #444444;
+$dark-grey: #4A4A4A;
+$grey-dark: #4A4A4A;
+$dove-grey: #666666;
+$gray: #8A8A8A;
+$dusty-grey: #999999;
+$silver-chalice: #AAAAAA;
+$nobel: #B3B3B3;
+$lighter-grey: #F2F2F2;
+$light-grey: #E8E8E8;
+$light-grey-pressed: #D9D9D9;
+$silver: #BBBBBB;
+$silver: #CCCCCC;
+$alto: #DDDDDD;
+$gallery: #EEEEEE;
+$alabaster: #F7F7F7;
+$grey-light: #D9D9D9;
+$mercury: #E2E2E2;
+
+
+// == RED ==
+$red: #EE3123;
+$light-red: #FFF1F0;
+$light-red-pressed: #FFCFCC;
+
+// == GREEN ==
+$dark-green: #63A83D;
+$light-green: #81CF86;
+$dark-green-pressed: #589636;
+
+
+// BEM? colors
+$color__white: #FFFFFF;
+$color__black: #000000;
+
+$color__primary--light: #DD0000;
+$color__primary: #C10000;
+$color__primary--dark: #990000;
+
+$color__secondary--light: #00DD00;
+$color__secondary: #00C100;
+$color__secondary--dark: #009900;
+
+$color__neutral--light: #999999;
+$color__neutral: #666666;
+$color__neutral--dark: #333333;

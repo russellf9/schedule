@@ -30,9 +30,9 @@ Now browse to the app at `http://localhost:8000/index.html`.
 
 ## Project Objectives
 
-# Learn how to use Angular Components
-# Learn how best to set up a SASS structure
-# Work out an upgrade plan from AS1 to AS2
+1. Learn how to use Angular Components
+1. Learn how best to set up a SASS structure
+1. Work out an upgrade plan from AS1 to AS2
 
 ## Project Notes
 
@@ -40,7 +40,7 @@ I used the simple angular-seed without a separate Build and Bin folder so I'll h
 
 Also, to begin with I didn't want loads of extra build stuff to do.
 
-For SASS
+### For SASS
 
 Used the Webstorm SASS compiler - See: [Transpiling Sass, Less, and SCSS to CSS](https://www.jetbrains.com/help/webstorm/2016.2/transpiling-sass-less-and-scss-to-css.html)
 
@@ -52,6 +52,13 @@ Output paths to refresh: `$FileParentDir$/app/css/$FileNameWithoutExtension$.css
 
 As well as building I'd like to set up a more definitive SASS structure to use in future projects.
 
+### SASS Structure and 
+
+Following:
+
+* [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+* [simple-sass-framework](https://github.com/mathaywarduk/simple-sass-framework/blob/master/assets/sass/_base.scss)
+* [Modular CSS with Sass & BEM](http://mathayward.com/modular-css-with-sass-and-bem/)
 
 ## Directory Layout
 
